@@ -1,3 +1,10 @@
+> ## READ AND DELETE
+> ### This Webpack ready template provide:
+>  1. `inline-source-map` for easier debugging 
+>  1. `HtmlWebpackPlugin` on `./src/index.html`
+>  1. `clean: true` the `output` after build 
+>  1. `style-loader` and `css-loader` modules for css files support
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
